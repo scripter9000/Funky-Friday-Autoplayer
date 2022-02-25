@@ -1,0 +1,4 @@
+ local message = Instance.new("Message", workspace)
+        message.Text = "sussi baka"
+        wait(1)
+        message:Destroy()
